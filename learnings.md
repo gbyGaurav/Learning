@@ -39,3 +39,25 @@ OKF has two common meanings.
 Minor/less common meanings: OKF is also the IATA airport code for Okaukuejo Airport in Namibia, and the name of a South Korean beverage company (OKF Corporation).
 
 ---
+
+## What is AI?
+
+**Date:** 2026-09-27
+
+**Tags:** AI, Machine Learning, Concepts
+
+AI (artificial intelligence) is the field of computer science focused on building systems that perform tasks normally requiring human intelligence: understanding language, recognizing images, solving problems, making decisions, and learning from experience.
+
+Broad categories:
+- Narrow AI: built for a specific task (spam filters, recommendation engines, voice assistants, image recognition). This is essentially all AI in use today.
+- General AI (AGI): a hypothetical system with human-level ability across virtually any intellectual task. Doesn't exist yet.
+
+Common approaches:
+- Machine learning: the dominant approach today, where systems learn patterns from data rather than following explicit hand-written rules.
+- Deep learning: a subset of machine learning using neural networks (loosely inspired by the brain) with many layers, responsible for most recent breakthroughs.
+- Large language models (LLMs): trained on huge amounts of text; powers systems like ChatGPT/Claude.
+- Rule-based / symbolic AI: older approach relying on explicit logic rules rather than learning from data.
+
+Common applications: search engines, recommendation systems (Netflix, Spotify), voice assistants (Siri, Alexa), self-driving car tech, medical image analysis, fraud detection, and chatbots.
+
+---
